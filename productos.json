@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Procesador Ryzen",
+        "price": 150000,
+        "image": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-7600x.jpg"
+    },
+    {   
+        "id": 2,
+        "name": "Procesador Intel",
+        "price": 140000,
+        "image": "https://www.digitarinformatica.com.ar/wp-content/uploads/2021/08/Microprocesador-Intel-Core-I5-10400F-1.jpg.webp"
+    },
+    {
+        "id": 3,
+        "name": "Gabinete",
+        "price": 100000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyOs2fJQXdGFv2RiOlguU5RIBmEmW3SczGA&s"
+    },
+    {
+        "id": 4,
+        "name": "Mother Asus",
+        "price": 120000,
+        "image": "https://fullh4rd.com.ar/img/productos/2/mother-asus-prime-b550ma-ac-ddr4-am4-0.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SSD 1TB",
+        "price": 80000,
+        "image": "https://fullh4rd.com.ar/img/productos/12/hd-ssd-1tb-wd-black-sn850x-m2-nvme-gen4-7300mbs-0.jpg"
+    }
+]
